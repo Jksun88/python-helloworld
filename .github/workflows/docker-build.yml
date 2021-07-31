@@ -41,5 +41,5 @@ jobs:
           context: .
           file: ./Dockerfile
           platforms: linux/amd64
-          push: true
+          push: True
           tags: jksun12/python-helloworld:latest
